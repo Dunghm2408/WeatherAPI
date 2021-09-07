@@ -1,0 +1,44 @@
+D:\David\JOB\Weather\Weather\Weather\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\David\JOB\Weather\Weather\Weather\bin\Debug\netcoreapp3.1\appsettings.json
+D:\David\JOB\Weather\Weather\Weather\bin\Debug\netcoreapp3.1\Weather.exe
+D:\David\JOB\Weather\Weather\Weather\bin\Debug\netcoreapp3.1\Weather.deps.json
+D:\David\JOB\Weather\Weather\Weather\bin\Debug\netcoreapp3.1\Weather.runtimeconfig.json
+D:\David\JOB\Weather\Weather\Weather\bin\Debug\netcoreapp3.1\Weather.runtimeconfig.dev.json
+D:\David\JOB\Weather\Weather\Weather\bin\Debug\netcoreapp3.1\Weather.dll
+D:\David\JOB\Weather\Weather\Weather\bin\Debug\netcoreapp3.1\Weather.pdb
+D:\David\JOB\Weather\Weather\Weather\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\David\JOB\Weather\Weather\Weather\obj\Debug\netcoreapp3.1\Weather.csprojAssemblyReference.cache
+D:\David\JOB\Weather\Weather\Weather\obj\Debug\netcoreapp3.1\Weather.AssemblyInfoInputs.cache
+D:\David\JOB\Weather\Weather\Weather\obj\Debug\netcoreapp3.1\Weather.AssemblyInfo.cs
+D:\David\JOB\Weather\Weather\Weather\obj\Debug\netcoreapp3.1\Weather.csproj.CoreCompileInputs.cache
+D:\David\JOB\Weather\Weather\Weather\obj\Debug\netcoreapp3.1\Weather.MvcApplicationPartsAssemblyInfo.cache
+D:\David\JOB\Weather\Weather\Weather\obj\Debug\netcoreapp3.1\staticwebassets\Weather.StaticWebAssets.Manifest.cache
+D:\David\JOB\Weather\Weather\Weather\obj\Debug\netcoreapp3.1\staticwebassets\Weather.StaticWebAssets.xml
+D:\David\JOB\Weather\Weather\Weather\obj\Debug\netcoreapp3.1\scopedcss\bundle\Weather.styles.css
+D:\David\JOB\Weather\Weather\Weather\obj\Debug\netcoreapp3.1\Weather.RazorTargetAssemblyInfo.cache
+D:\David\JOB\Weather\Weather\Weather\obj\Debug\netcoreapp3.1\Weather.csproj.CopyComplete
+D:\David\JOB\Weather\Weather\Weather\obj\Debug\netcoreapp3.1\Weather.dll
+D:\David\JOB\Weather\Weather\Weather\obj\Debug\netcoreapp3.1\Weather.pdb
+D:\David\JOB\Weather\Weather\Weather\obj\Debug\netcoreapp3.1\Weather.genruntimeconfig.cache
+C:\Users\asus\OneDrive\Máy tính\Test\Weather\Weather\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\asus\OneDrive\Máy tính\Test\Weather\Weather\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\asus\OneDrive\Máy tính\Test\Weather\Weather\bin\Debug\netcoreapp3.1\Weather.exe
+C:\Users\asus\OneDrive\Máy tính\Test\Weather\Weather\bin\Debug\netcoreapp3.1\Weather.deps.json
+C:\Users\asus\OneDrive\Máy tính\Test\Weather\Weather\bin\Debug\netcoreapp3.1\Weather.runtimeconfig.json
+C:\Users\asus\OneDrive\Máy tính\Test\Weather\Weather\bin\Debug\netcoreapp3.1\Weather.runtimeconfig.dev.json
+C:\Users\asus\OneDrive\Máy tính\Test\Weather\Weather\bin\Debug\netcoreapp3.1\Weather.dll
+C:\Users\asus\OneDrive\Máy tính\Test\Weather\Weather\bin\Debug\netcoreapp3.1\Weather.pdb
+C:\Users\asus\OneDrive\Máy tính\Test\Weather\Weather\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\asus\OneDrive\Máy tính\Test\Weather\Weather\obj\Debug\netcoreapp3.1\Weather.csprojAssemblyReference.cache
+C:\Users\asus\OneDrive\Máy tính\Test\Weather\Weather\obj\Debug\netcoreapp3.1\Weather.AssemblyInfoInputs.cache
+C:\Users\asus\OneDrive\Máy tính\Test\Weather\Weather\obj\Debug\netcoreapp3.1\Weather.AssemblyInfo.cs
+C:\Users\asus\OneDrive\Máy tính\Test\Weather\Weather\obj\Debug\netcoreapp3.1\Weather.csproj.CoreCompileInputs.cache
+C:\Users\asus\OneDrive\Máy tính\Test\Weather\Weather\obj\Debug\netcoreapp3.1\Weather.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\asus\OneDrive\Máy tính\Test\Weather\Weather\obj\Debug\netcoreapp3.1\staticwebassets\Weather.StaticWebAssets.Manifest.cache
+C:\Users\asus\OneDrive\Máy tính\Test\Weather\Weather\obj\Debug\netcoreapp3.1\staticwebassets\Weather.StaticWebAssets.xml
+C:\Users\asus\OneDrive\Máy tính\Test\Weather\Weather\obj\Debug\netcoreapp3.1\scopedcss\bundle\Weather.styles.css
+C:\Users\asus\OneDrive\Máy tính\Test\Weather\Weather\obj\Debug\netcoreapp3.1\Weather.RazorTargetAssemblyInfo.cache
+C:\Users\asus\OneDrive\Máy tính\Test\Weather\Weather\obj\Debug\netcoreapp3.1\Weather.csproj.CopyComplete
+C:\Users\asus\OneDrive\Máy tính\Test\Weather\Weather\obj\Debug\netcoreapp3.1\Weather.dll
+C:\Users\asus\OneDrive\Máy tính\Test\Weather\Weather\obj\Debug\netcoreapp3.1\Weather.pdb
+C:\Users\asus\OneDrive\Máy tính\Test\Weather\Weather\obj\Debug\netcoreapp3.1\Weather.genruntimeconfig.cache
